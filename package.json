@@ -1,0 +1,14 @@
+{
+  "name": "scatter_plot_d3",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "index": "parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
